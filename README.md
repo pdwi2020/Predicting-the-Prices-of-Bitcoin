@@ -9,7 +9,7 @@ Time series analysis typically requires a large number of data points to ensure 
 # About
 This project focuses on the prediction of the prices of Bitcoin, the most in-demand crypto-currency of today’s world. We predict the prices accurately by gathering data available at yahoo finance while taking various hyper-parameters into consideration which have affected the bitcoin prices until now.
 
-# ML Models Used:
+### ML Models Used:
 - Regression Models
 - Linear Regression with various penalties
 - Polynomial Regression
@@ -28,7 +28,7 @@ This project focuses on the prediction of the prices of Bitcoin, the most in-dem
 
 
 
-# Install Dependencies (requirements.txt)
+### Install Dependencies (requirements.txt)
 ```
 pip install -r requirements.txt
 ```
